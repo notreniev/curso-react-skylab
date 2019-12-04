@@ -1,6 +1,6 @@
-import Axios from 'axios';
+import axios from 'axios';
 
-const api = Axios.create({
+const api = axios.create({
     baseURL: 'https://rocketseat-node.herokuapp.com/api'
 });
 
