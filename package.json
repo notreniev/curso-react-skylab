@@ -13,7 +13,7 @@
     "axios": "0.19.0",
     "npm-install-peers": "^1.2.1",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-webview": "^7.5.2",
     "react-navigation": "^2.18.3"
   },
